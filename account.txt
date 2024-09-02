@@ -1,0 +1,20 @@
+doctor:
+
+email: rabianuzha21@gmail.com
+password: 5061ed21-3fe3-46e6-b0e7-e77f1a3c10b3
+
+email: rabia24@gmail.com
+password: 3fbe8bd2-8ea0-41e8-bc15-f4d8dfe311a4
+
+
+patient:
+"email": "rabianuzha12@gmail.com",
+"password": "Hello@1508_2021**",
+
+admin:
+email: superadmin@gmail.com
+password: Admin_12345@!&&
+
+
+"email": "generaladmin@gmail.com",
+  "password": "Adge_1234@&&!",
